@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.24f1 (6667702a1e7c) revision 6711152'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 8112 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/sacco/Desktop/LEVEL 5 YEAR 2/Game Engines/Intro To UNITY/BONK THE EVIL game/BONK-THE-EVIL-game-Martha-Anna-Sacco
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50499
+Successfully changed project path to: C:/Users/sacco/Desktop/LEVEL 5 YEAR 2/Game Engines/Intro To UNITY/BONK THE EVIL game/BONK-THE-EVIL-game-Martha-Anna-Sacco
+C:/Users/sacco/Desktop/LEVEL 5 YEAR 2/Game Engines/Intro To UNITY/BONK THE EVIL game/BONK-THE-EVIL-game-Martha-Anna-Sacco
+Using Asset Import Pipeline V2.
